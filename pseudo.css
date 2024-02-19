@@ -1,0 +1,15 @@
+a:active{
+    color: black;
+}
+a:visited {
+    color: rgb(7, 189, 37);
+}
+a:hover{
+    color: aqua;
+}
+a:link {
+    color: brown;
+}
+p::first-line{
+    color: blue;
+}
